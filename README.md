@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanvi-Dasari
-- 👀 I’m interested in python and linux
+- 👀 I’m interested in java , python and linux
 - 🌱 I’m currently learning in Sathyabama Institute of Science and Technology-India,chennai
 - 💞️ I’m looking to collaborate on many projects that'll help me grow in this field and to learn new and intresting things.
 - 😄 Pronouns: she/her
